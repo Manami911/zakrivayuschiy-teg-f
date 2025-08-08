@@ -176,7 +176,7 @@
 .card__icon-button:focus-visible .like-icon {
   height: 34px;
   outline: 2px solid var(--main-color);
-  transition: all 0.3s ease;
+  transition: 0.3s ease;
 }
 
 .button {
